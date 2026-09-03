@@ -104,7 +104,6 @@ Natural next steps include calibrated Hawkes/Poisson order flow, queue-position 
 ## References and originality
 
 - Marco Avellaneda and Sasha Stoikov, *High-frequency trading in a limit order book* (2008), for the reservation-price and spread intuition.
-- [`silue-dev/limit-order-book-market-making`](https://github.com/silue-dev/limit-order-book-market-making) was reviewed as a high-level example of combining a Python book with a market-maker. This repository is a clean-room implementation with a different API, data model, simulation design, accounting, test suite, and documentation; no source code was copied.
 
 ## Disclaimer
 
